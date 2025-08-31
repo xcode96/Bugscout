@@ -1,6 +1,6 @@
 # Bug Bounty Dork Generator 
 
-A tool to generate **BugScout** for bug bounty hunting, reconnaissance, and vulnerability discovery on `xddodo.com`.
+A tool to generate **BugScout** for bug bounty hunting, reconnaissance, and vulnerability discovery on
 
 ---
 
